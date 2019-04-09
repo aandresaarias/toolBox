@@ -1,8 +1,10 @@
-package com.toolbox;
+package Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.toolbox.R;
 
 public class MainActivity extends AppCompatActivity
 {
